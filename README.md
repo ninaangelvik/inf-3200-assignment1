@@ -1,5 +1,5 @@
-3200 - Distributed Systems - Fall 2016 - Assignment 1
-======================================================
+INF-3200 - Distributed Systems - Fall 2016 - Assignment 1
+==========================================================
 
 The first assignment is to create a simple distributed hash table. This
 repository contains the assignment handouts and some example code to get you
